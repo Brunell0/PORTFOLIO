@@ -5,4 +5,4 @@ As principais funcionalidades da G.A.R são: movimentos laterais, frontais e tra
 
 Se interessou? Leia meu TCC e minha apresentação!
 
-OBS: vale destacar que o aplicativo desenvolvido é personalizável, ou seja, é possível utilizar em outros contexto de IoT, e está disponível para download!
+OBS: vale destacar que o aplicativo desenvolvido é personalizável (valores dos botões), ou seja, é possível utilizar em outros contexto de IoT, e está disponível para download!
