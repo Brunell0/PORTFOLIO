@@ -1,0 +1,3 @@
+Realizei a OBI (Olimpíada Brasileira de Informática) em 2025, uma olimpíada que consiste em resolver problemas utilizando as linguagens Python, Java, C, C++ e/ou JavaScript.
+Atualmente ainda não realizei a segunda fase, porém compartilho que meu resultado na fase 1 foi 335/400 pontos.
+O caderno de questões e minhas respostas, obtidas pelo site oficial da OBI, estão disponíveis, bem como meu resultado em cada questão (são 4 questões, onde cada uma vale no máximo 100 pontos).
