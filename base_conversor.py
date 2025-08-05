@@ -2,6 +2,8 @@
 """
 CONVERSOR DE BASES *N PARA DECIMAIS E DECIMAIS PARA BASES N
 N pertence ao intervalo [2, 16]
+-------------------------------
+O intuito é dispensar funções próprias da linguagem, como bin(), oct() e hex(), aplicando a lógica para reforçar o aprendizado
 """
 import sys
 
