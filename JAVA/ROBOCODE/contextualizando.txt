@@ -1,0 +1,5 @@
+Participei, juntamente com 2 colegas, do Rocobode do Centro Paula Souza (CPS) em 2024, onde desenvolvemos um robô virtual para batalhar na competição do Robocode entre as ETECs e FATECs.
+Aqui disponibilizo o código, na linguagem Java, para auxiliar futuros competidores. 
+LEMBRE-SE: É necessário baixar o software Robocode, através do link: https://robocode.sourceforge.io/
+
+Créditos: Eu, Marvin Cristhian Gomes Pinto e Filipe Gustavo Paganoto.
