@@ -1,0 +1,8 @@
+Realizei meu TCC na ETEC Professor Armando Bayeux, como pré-requisito para conclusão do técnico em Desenvolvimento de Sistemas, em 2024.
+Meu TCC foi individual e baseia-se em robótica e programação, utilizando o microcontrolador Arduino e seu ambiente de desenvolvimento, Arduino IDE, para a construção da G.A.R (Garra Automatizada sobre Rodas).
+G.A.R consiste em um carrinho de controle remoto com uma garra robótica acoplada no topo, controlada via Bluetooth por um aplicativo desenvolvido utilizando o App Inventor.
+As principais funcionalidades da G.A.R são: movimentos laterais, frontais e traseiros (carrinho e garra), pegar objetos leves (garra), buzinar, acender faróis, e tocar uma musiquinha!
+
+Se interessou? Leia meu TCC e minha apresentação!
+
+OBS: vale destacar que o aplicativo desenvolvido é personalizável, ou seja, é possível utilizar em outros contexto de IoT, e está disponível para download!
