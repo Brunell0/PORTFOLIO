@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+Função recursiva para resolver a torre de hanói.
+Livro: Programando em C, de Byron S. Gottfried
+*/
 
 void transferir(int n, char de, char para, char temp, int* quant){
     if (n > 0){
@@ -18,4 +22,5 @@ int main(){
 
     transferir(n, 'E', 'D', 'C', &qtd);
     printf("Quantidade de movimentos: %d", qtd);
+
 }
